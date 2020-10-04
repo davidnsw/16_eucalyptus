@@ -8,6 +8,6 @@ please restart the
 server process.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 description_footer: 本站记录我学习之旅的沿途风景！
