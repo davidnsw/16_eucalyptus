@@ -1,7 +1,5 @@
-theme: jekyll-theme-minimal
-
-title: 16 Eucalyptus
-## logo: /assets/img/logo.png
-description: Family friends of 16 Eucalyptus
-## show_downloads: true
-## google_analytics:
+title: David CHEN
+description: This is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
