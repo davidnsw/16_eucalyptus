@@ -8,11 +8,13 @@ description: This is a clean, responsive page for family friends of 16 Eucalyptu
 
 Welcome to 16 Eucalyptus Home Page!
 
-
-Home phone: +94-81-20-50-194
+### Contents:
+* [Internet](#Internet)
+* [Family members](#Family-members)
+* 
 Home address: 16 Eucalyptus, Circuit, Warabrook, 2304
 
-## Internet / Wifi
+## Internet
 OPTUS NBN - Internet Entertainer Lite Ultimate Pack (44Mbps)
 
 Cool Wifi - 2013millet
